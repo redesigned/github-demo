@@ -2,3 +2,4 @@ Test Git Quick Start Demo
 
 Adding some more text on my own to the file after the initial commit and push.
 
+Adding a little bit more after the add but before the commit or push.
